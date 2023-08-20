@@ -1,0 +1,144 @@
+C:\Users\ghisl\OneDrive\Bureau\ETUDE\periodeD\ihm\SAE\SAE\bin\Debug\SAE.exe.config
+C:\Users\ghisl\OneDrive\Bureau\ETUDE\periodeD\ihm\SAE\SAE\bin\Debug\SAE.exe
+C:\Users\ghisl\OneDrive\Bureau\ETUDE\periodeD\ihm\SAE\SAE\bin\Debug\SAE.pdb
+C:\Users\ghisl\OneDrive\Bureau\ETUDE\periodeD\ihm\SAE\SAE\bin\Debug\SAE.xml
+C:\Users\ghisl\OneDrive\Bureau\ETUDE\periodeD\ihm\SAE\SAE\obj\Debug\SAE.vbproj.AssemblyReference.cache
+C:\Users\ghisl\OneDrive\Bureau\ETUDE\periodeD\ihm\SAE\SAE\obj\Debug\SAE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ghisl\OneDrive\Bureau\ETUDE\periodeD\ihm\SAE\SAE\obj\Debug\SAE.Resources.resources
+C:\Users\ghisl\OneDrive\Bureau\ETUDE\periodeD\ihm\SAE\SAE\obj\Debug\SAE.vbproj.GenerateResource.cache
+C:\Users\ghisl\OneDrive\Bureau\ETUDE\periodeD\ihm\SAE\SAE\obj\Debug\SAE.vbproj.CoreCompileInputs.cache
+C:\Users\ghisl\OneDrive\Bureau\ETUDE\periodeD\ihm\SAE\SAE\obj\Debug\SAE.exe
+C:\Users\ghisl\OneDrive\Bureau\ETUDE\periodeD\ihm\SAE\SAE\obj\Debug\SAE.xml
+C:\Users\ghisl\OneDrive\Bureau\ETUDE\periodeD\ihm\SAE\SAE\obj\Debug\SAE.pdb
+C:\Users\ghisl\OneDrive\Bureau\ETUDE\periodeD\ihm\SAE\SAE\obj\Debug\SAE.début.resources
+C:\Users\ghisl\OneDrive\Bureau\ETUDE\periodeD\ihm\SAE\SAE\obj\Debug\SAE.Deviner.resources
+C:\Users\ghisl\OneDrive\Bureau\ETUDE\periodeD\ihm\SAE\SAE\obj\Debug\SAE.score.resources
+C:\Users\ghisl\OneDrive\Bureau\ETUDE\periodeD\ihm\SAE\SAE\obj\Debug\SAE.jeu.resources
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\Periode D\SAE VB\SAE (1)\SAE\SAE\bin\Debug\SAE.exe.config
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\Periode D\SAE VB\SAE (1)\SAE\SAE\bin\Debug\SAE.exe
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\Periode D\SAE VB\SAE (1)\SAE\SAE\bin\Debug\SAE.pdb
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\Periode D\SAE VB\SAE (1)\SAE\SAE\bin\Debug\SAE.xml
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\Periode D\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.vbproj.AssemblyReference.cache
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\Periode D\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\Periode D\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.Deviner.resources
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\Periode D\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.début.resources
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\Periode D\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.jeu.resources
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\Periode D\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.Resources.resources
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\Periode D\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.score.resources
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\Periode D\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.vbproj.GenerateResource.cache
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\Periode D\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.vbproj.CoreCompileInputs.cache
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\Periode D\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.exe
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\Periode D\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.xml
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\Periode D\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.pdb
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\bin\Debug\SAE.exe.config
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\bin\Debug\SAE.exe
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\bin\Debug\SAE.pdb
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\bin\Debug\SAE.xml
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.vbproj.AssemblyReference.cache
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.Deviner.resources
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.début.resources
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.jeu.resources
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.Resources.resources
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.score.resources
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.vbproj.GenerateResource.cache
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.vbproj.CoreCompileInputs.cache
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.exe
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.xml
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.pdb
+C:\Users\ghisl\Downloads\SAE_VB\SAE VB\SAE (1)\SAE\SAE\obj\Debug\SAE.options.resources
+C:\Users\John LI\Downloads\SAE\SAE\SAE\bin\Debug\SAE.exe.config
+C:\Users\John LI\Downloads\SAE\SAE\SAE\bin\Debug\SAE.exe
+C:\Users\John LI\Downloads\SAE\SAE\SAE\bin\Debug\SAE.pdb
+C:\Users\John LI\Downloads\SAE\SAE\SAE\bin\Debug\SAE.xml
+C:\Users\John LI\Downloads\SAE\SAE\SAE\obj\Debug\SAE.vbproj.AssemblyReference.cache
+C:\Users\John LI\Downloads\SAE\SAE\SAE\obj\Debug\SAE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\John LI\Downloads\SAE\SAE\SAE\obj\Debug\SAE.Deviner.resources
+C:\Users\John LI\Downloads\SAE\SAE\SAE\obj\Debug\SAE.début.resources
+C:\Users\John LI\Downloads\SAE\SAE\SAE\obj\Debug\SAE.jeu.resources
+C:\Users\John LI\Downloads\SAE\SAE\SAE\obj\Debug\SAE.Resources.resources
+C:\Users\John LI\Downloads\SAE\SAE\SAE\obj\Debug\SAE.options.resources
+C:\Users\John LI\Downloads\SAE\SAE\SAE\obj\Debug\SAE.score.resources
+C:\Users\John LI\Downloads\SAE\SAE\SAE\obj\Debug\SAE.vbproj.GenerateResource.cache
+C:\Users\John LI\Downloads\SAE\SAE\SAE\obj\Debug\SAE.vbproj.CoreCompileInputs.cache
+C:\Users\John LI\Downloads\SAE\SAE\SAE\obj\Debug\SAE.exe
+C:\Users\John LI\Downloads\SAE\SAE\SAE\obj\Debug\SAE.xml
+C:\Users\John LI\Downloads\SAE\SAE\SAE\obj\Debug\SAE.pdb
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\bin\Debug\SAE.exe.config
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\bin\Debug\SAE.exe
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\bin\Debug\SAE.pdb
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\bin\Debug\SAE.xml
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.vbproj.AssemblyReference.cache
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.Deviner.resources
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.début.resources
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.jeu.resources
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.Resources.resources
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.options.resources
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.score.resources
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.vbproj.GenerateResource.cache
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.vbproj.CoreCompileInputs.cache
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.exe
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.xml
+C:\Users\vatob\Downloads\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.pdb
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\bin\Debug\SAE.exe.config
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\bin\Debug\SAE.exe
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\bin\Debug\SAE.pdb
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\bin\Debug\SAE.xml
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.vbproj.AssemblyReference.cache
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.Deviner.resources
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.début.resources
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.jeu.resources
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.Resources.resources
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.options.resources
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.score.resources
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.vbproj.GenerateResource.cache
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.vbproj.CoreCompileInputs.cache
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.exe
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.xml
+C:\Users\John LI\Downloads\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.pdb
+C:\Users\John LI\Downloads\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.vbproj.AssemblyReference.cache
+C:\Users\John LI\Downloads\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\John LI\Downloads\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.Deviner.resources
+C:\Users\John LI\Downloads\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.début.resources
+C:\Users\John LI\Downloads\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.jeu.resources
+C:\Users\John LI\Downloads\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.Resources.resources
+C:\Users\John LI\Downloads\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.options.resources
+C:\Users\John LI\Downloads\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.score.resources
+C:\Users\John LI\Downloads\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.vbproj.GenerateResource.cache
+C:\Users\John LI\Downloads\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.vbproj.CoreCompileInputs.cache
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\bin\Debug\SAE.exe.config
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\bin\Debug\SAE.exe
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\bin\Debug\SAE.pdb
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\bin\Debug\SAE.xml
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.vbproj.AssemblyReference.cache
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.Deviner.resources
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.début.resources
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.jeu.resources
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.Resources.resources
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.options.resources
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.score.resources
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.vbproj.GenerateResource.cache
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.vbproj.CoreCompileInputs.cache
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.exe
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.xml
+C:\Users\vatob\Downloads\SAE_2_3_4\SAE_2_3 (2)\SAE_2_3\SAE_2\SAE\SAE\SAE\obj\Debug\SAE.pdb
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\bin\Debug\SAE.exe.config
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\bin\Debug\SAE.exe
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\bin\Debug\SAE.pdb
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\bin\Debug\SAE.xml
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\obj\Debug\SAE.vbproj.AssemblyReference.cache
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\obj\Debug\SAE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\obj\Debug\SAE.Deviner.resources
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\obj\Debug\SAE.début.resources
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\obj\Debug\SAE.jeu.resources
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\obj\Debug\SAE.Resources.resources
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\obj\Debug\SAE.options.resources
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\obj\Debug\SAE.score.resources
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\obj\Debug\SAE.vbproj.GenerateResource.cache
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\obj\Debug\SAE.vbproj.CoreCompileInputs.cache
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\obj\Debug\SAE.exe
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\obj\Debug\SAE.xml
+C:\Users\vatob\Documents\BUT Info\Perso_JohnLI\SAE VB\SAE\SAE\SAE\obj\Debug\SAE.pdb
